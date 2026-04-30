@@ -1,0 +1,2470 @@
+{
+  "2025": [
+    {
+      "sku_id": "SKU_004",
+      "name": "Winter Warm-Up",
+      "start_date": "2025-06-01",
+      "end_date": "2025-08-31",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_011",
+      "name": "Winter Warm-Up",
+      "start_date": "2025-06-01",
+      "end_date": "2025-08-31",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_012",
+      "name": "Winter Warm-Up",
+      "start_date": "2025-06-01",
+      "end_date": "2025-08-31",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_018",
+      "name": "Winter Warm-Up",
+      "start_date": "2025-06-01",
+      "end_date": "2025-08-31",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_019",
+      "name": "Winter Warm-Up",
+      "start_date": "2025-06-01",
+      "end_date": "2025-08-31",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_021",
+      "name": "Winter Warm-Up",
+      "start_date": "2025-06-01",
+      "end_date": "2025-08-31",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_022",
+      "name": "Winter Warm-Up",
+      "start_date": "2025-06-01",
+      "end_date": "2025-08-31",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_026",
+      "name": "Winter Warm-Up",
+      "start_date": "2025-06-01",
+      "end_date": "2025-08-31",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_046",
+      "name": "Winter Warm-Up",
+      "start_date": "2025-06-01",
+      "end_date": "2025-08-31",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_049",
+      "name": "Winter Warm-Up",
+      "start_date": "2025-06-01",
+      "end_date": "2025-08-31",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_052",
+      "name": "Winter Warm-Up",
+      "start_date": "2025-06-01",
+      "end_date": "2025-08-31",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_054",
+      "name": "Winter Warm-Up",
+      "start_date": "2025-06-01",
+      "end_date": "2025-08-31",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_055",
+      "name": "Winter Warm-Up",
+      "start_date": "2025-06-01",
+      "end_date": "2025-08-31",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_057",
+      "name": "Winter Warm-Up",
+      "start_date": "2025-06-01",
+      "end_date": "2025-08-31",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_058",
+      "name": "Winter Warm-Up",
+      "start_date": "2025-06-01",
+      "end_date": "2025-08-31",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_064",
+      "name": "Winter Warm-Up",
+      "start_date": "2025-06-01",
+      "end_date": "2025-08-31",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_065",
+      "name": "Winter Warm-Up",
+      "start_date": "2025-06-01",
+      "end_date": "2025-08-31",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_067",
+      "name": "Winter Warm-Up",
+      "start_date": "2025-06-01",
+      "end_date": "2025-08-31",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_001",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_002",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_003",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_004",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_005",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_006",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_007",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_008",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_009",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_010",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_011",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_012",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_013",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_014",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_015",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_016",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_017",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_018",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_019",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_020",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_021",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_022",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_023",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_024",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_025",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_026",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_027",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_028",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_029",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_030",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_031",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_032",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_033",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_034",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_035",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_036",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_037",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_038",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_039",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_040",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_041",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_042",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_043",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_044",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_045",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_046",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_047",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_048",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_049",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_050",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_051",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_052",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_053",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_054",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_055",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_056",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_057",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_058",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_059",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_060",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_061",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_062",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_063",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_064",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_065",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_066",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_067",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_068",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_069",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_070",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_071",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_072",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_073",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_074",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_075",
+      "name": "Christmas Season",
+      "start_date": "2025-12-01",
+      "end_date": "2025-12-24",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_001",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_002",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_003",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_004",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_005",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_006",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_007",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_008",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_009",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_010",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_011",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_012",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_013",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_014",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_015",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_016",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_017",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_018",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_019",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_020",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_021",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_022",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_023",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_024",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_025",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_026",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_027",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_028",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_029",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_030",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_031",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_032",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_033",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_034",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_035",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_036",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_037",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_038",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_039",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_040",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_041",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_042",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_043",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_044",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_045",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_046",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_047",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_048",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_049",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_050",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_051",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_052",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_053",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_054",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_055",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_056",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_057",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_058",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_059",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_060",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_061",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_062",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_063",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_064",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_065",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_066",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_067",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_068",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_069",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_070",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_071",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_072",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_073",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_074",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_075",
+      "name": "Black Friday",
+      "start_date": "2025-11-24",
+      "end_date": "2025-11-30",
+      "discount_rate": 0.3,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_021",
+      "name": "Summer Refresh",
+      "start_date": "2025-12-20",
+      "end_date": "2026-02-28",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_026",
+      "name": "Summer Refresh",
+      "start_date": "2025-12-20",
+      "end_date": "2026-02-28",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_032",
+      "name": "Summer Refresh",
+      "start_date": "2025-12-20",
+      "end_date": "2026-02-28",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_033",
+      "name": "Summer Refresh",
+      "start_date": "2025-12-20",
+      "end_date": "2026-02-28",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_035",
+      "name": "Summer Refresh",
+      "start_date": "2025-12-20",
+      "end_date": "2026-02-28",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_037",
+      "name": "Summer Refresh",
+      "start_date": "2025-12-20",
+      "end_date": "2026-02-28",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_046",
+      "name": "Summer Refresh",
+      "start_date": "2025-12-20",
+      "end_date": "2026-02-28",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_052",
+      "name": "Summer Refresh",
+      "start_date": "2025-12-20",
+      "end_date": "2026-02-28",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_055",
+      "name": "Summer Refresh",
+      "start_date": "2025-12-20",
+      "end_date": "2026-02-28",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_058",
+      "name": "Summer Refresh",
+      "start_date": "2025-12-20",
+      "end_date": "2026-02-28",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_063",
+      "name": "Summer Refresh",
+      "start_date": "2025-12-20",
+      "end_date": "2026-02-28",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_064",
+      "name": "Summer Refresh",
+      "start_date": "2025-12-20",
+      "end_date": "2026-02-28",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_067",
+      "name": "Summer Refresh",
+      "start_date": "2025-12-20",
+      "end_date": "2026-02-28",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_071",
+      "name": "Summer Refresh",
+      "start_date": "2025-12-20",
+      "end_date": "2026-02-28",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    }
+  ],
+  "2026": [
+    {
+      "sku_id": "SKU_001",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_002",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_003",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_004",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_005",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_006",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_007",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_008",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_009",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_010",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_011",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_012",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_013",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_014",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_015",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_016",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_017",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_018",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_019",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_020",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_021",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_022",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_023",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_024",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_025",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_026",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_027",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_028",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_029",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_030",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_031",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_032",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_033",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_034",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_035",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_036",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_037",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_038",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_039",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_040",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_041",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_042",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_043",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_044",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_045",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_046",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_047",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_048",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_049",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_050",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_051",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_052",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_053",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_054",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_055",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_056",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_057",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_058",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_059",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_060",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_061",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_062",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_063",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_064",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_065",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_066",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_067",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_068",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_069",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_070",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_071",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_072",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_073",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_074",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_075",
+      "name": "Anzac Day Sale",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "discount_rate": 0.15,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_010",
+      "name": "Back to School",
+      "start_date": "2026-01-15",
+      "end_date": "2026-02-15",
+      "discount_rate": 0.2,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_012",
+      "name": "Back to School",
+      "start_date": "2026-01-15",
+      "end_date": "2026-02-15",
+      "discount_rate": 0.2,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_015",
+      "name": "Back to School",
+      "start_date": "2026-01-15",
+      "end_date": "2026-02-15",
+      "discount_rate": 0.2,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_017",
+      "name": "Back to School",
+      "start_date": "2026-01-15",
+      "end_date": "2026-02-15",
+      "discount_rate": 0.2,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_021",
+      "name": "Back to School",
+      "start_date": "2026-01-15",
+      "end_date": "2026-02-15",
+      "discount_rate": 0.2,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_026",
+      "name": "Back to School",
+      "start_date": "2026-01-15",
+      "end_date": "2026-02-15",
+      "discount_rate": 0.2,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_028",
+      "name": "Back to School",
+      "start_date": "2026-01-15",
+      "end_date": "2026-02-15",
+      "discount_rate": 0.2,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_031",
+      "name": "Back to School",
+      "start_date": "2026-01-15",
+      "end_date": "2026-02-15",
+      "discount_rate": 0.2,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_046",
+      "name": "Back to School",
+      "start_date": "2026-01-15",
+      "end_date": "2026-02-15",
+      "discount_rate": 0.2,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_047",
+      "name": "Back to School",
+      "start_date": "2026-01-15",
+      "end_date": "2026-02-15",
+      "discount_rate": 0.2,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_048",
+      "name": "Back to School",
+      "start_date": "2026-01-15",
+      "end_date": "2026-02-15",
+      "discount_rate": 0.2,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_052",
+      "name": "Back to School",
+      "start_date": "2026-01-15",
+      "end_date": "2026-02-15",
+      "discount_rate": 0.2,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_055",
+      "name": "Back to School",
+      "start_date": "2026-01-15",
+      "end_date": "2026-02-15",
+      "discount_rate": 0.2,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_006",
+      "name": "Easter Promo",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-20",
+      "discount_rate": 0.25,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_008",
+      "name": "Easter Promo",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-20",
+      "discount_rate": 0.25,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_013",
+      "name": "Easter Promo",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-20",
+      "discount_rate": 0.25,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_014",
+      "name": "Easter Promo",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-20",
+      "discount_rate": 0.25,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_016",
+      "name": "Easter Promo",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-20",
+      "discount_rate": 0.25,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_021",
+      "name": "Easter Promo",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-20",
+      "discount_rate": 0.25,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_023",
+      "name": "Easter Promo",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-20",
+      "discount_rate": 0.25,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_024",
+      "name": "Easter Promo",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-20",
+      "discount_rate": 0.25,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_025",
+      "name": "Easter Promo",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-20",
+      "discount_rate": 0.25,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_026",
+      "name": "Easter Promo",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-20",
+      "discount_rate": 0.25,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_027",
+      "name": "Easter Promo",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-20",
+      "discount_rate": 0.25,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_034",
+      "name": "Easter Promo",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-20",
+      "discount_rate": 0.25,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_036",
+      "name": "Easter Promo",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-20",
+      "discount_rate": 0.25,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_004",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_010",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_011",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_015",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_017",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_018",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_019",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_021",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_022",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_026",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_028",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_031",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_046",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_047",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_048",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_049",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_052",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_054",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_055",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_056",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_058",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_060",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_064",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_066",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    },
+    {
+      "sku_id": "SKU_067",
+      "name": "Australia Day",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-28",
+      "discount_rate": 0.1,
+      "type": "percentage"
+    }
+  ]
+}

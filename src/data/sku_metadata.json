@@ -1,0 +1,1164 @@
+{
+  "SKU_001": {
+    "name": "Shampoo 1kg",
+    "category": "Personal Care",
+    "supplier": "Metcash",
+    "lead_time_days": 4,
+    "reorder_point": 420,
+    "unit_cost": 3.02,
+    "selling_price": 3.77,
+    "min_order_quantity": 100,
+    "shelf_life_days": 14,
+    "bulk_discounts": {
+      "50": 0.07,
+      "100": 0.08
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_002": {
+    "name": "Toothpaste 1kg",
+    "category": "Personal Care",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 5,
+    "reorder_point": 595,
+    "unit_cost": 0.81,
+    "selling_price": 1.21,
+    "min_order_quantity": 100,
+    "shelf_life_days": 3,
+    "bulk_discounts": {
+      "50": 0.03,
+      "100": 0.12
+    },
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_003": {
+    "name": "Lettuce 1kg",
+    "category": "Produce",
+    "supplier": "Metcash",
+    "lead_time_days": 5,
+    "reorder_point": 600,
+    "unit_cost": 14.76,
+    "selling_price": 19.78,
+    "min_order_quantity": 10,
+    "shelf_life_days": 90,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_004": {
+    "name": "Chicken 1L",
+    "category": "Meat",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 2,
+    "reorder_point": 495,
+    "unit_cost": 14.51,
+    "selling_price": 20.93,
+    "min_order_quantity": 100,
+    "shelf_life_days": 3,
+    "bulk_discounts": {
+      "50": 0.04,
+      "100": 0.13
+    },
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_005": {
+    "name": "Soap 1kg",
+    "category": "Personal Care",
+    "supplier": "Metcash",
+    "lead_time_days": 2,
+    "reorder_point": 77,
+    "unit_cost": 13.71,
+    "selling_price": 17.52,
+    "min_order_quantity": 100,
+    "shelf_life_days": 30,
+    "bulk_discounts": {
+      "50": 0.04,
+      "100": 0.15
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_006": {
+    "name": "Rolls 1kg",
+    "category": "Bakery",
+    "supplier": "Metcash",
+    "lead_time_days": 5,
+    "reorder_point": 480,
+    "unit_cost": 13.51,
+    "selling_price": 18.64,
+    "min_order_quantity": 100,
+    "shelf_life_days": 365,
+    "bulk_discounts": {
+      "50": 0.07,
+      "100": 0.12
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_007": {
+    "name": "Detergent 500g",
+    "category": "Cleaning",
+    "supplier": "Metcash",
+    "lead_time_days": 1,
+    "reorder_point": 400,
+    "unit_cost": 5.01,
+    "selling_price": 6.26,
+    "min_order_quantity": 100,
+    "shelf_life_days": 3,
+    "bulk_discounts": {
+      "50": 0.04,
+      "100": 0.08
+    },
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_008": {
+    "name": "Butter Dozen",
+    "category": "Dairy",
+    "supplier": "Metcash",
+    "lead_time_days": 1,
+    "reorder_point": 500,
+    "unit_cost": 11.15,
+    "selling_price": 15.96,
+    "min_order_quantity": 100,
+    "shelf_life_days": 90,
+    "bulk_discounts": {
+      "50": 0.05,
+      "100": 0.09
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_009": {
+    "name": "Lettuce Dozen",
+    "category": "Produce",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 3,
+    "reorder_point": 392,
+    "unit_cost": 4.7,
+    "selling_price": 6.43,
+    "min_order_quantity": 10,
+    "shelf_life_days": 14,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_010": {
+    "name": "Biscuits 2L",
+    "category": "Snacks",
+    "supplier": "Metcash",
+    "lead_time_days": 3,
+    "reorder_point": 255,
+    "unit_cost": 4.44,
+    "selling_price": 5.38,
+    "min_order_quantity": 50,
+    "shelf_life_days": 7,
+    "bulk_discounts": {
+      "50": 0.07
+    },
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_011": {
+    "name": "Chicken 500g",
+    "category": "Meat",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 5,
+    "reorder_point": 240,
+    "unit_cost": 8.02,
+    "selling_price": 11.81,
+    "min_order_quantity": 100,
+    "shelf_life_days": 90,
+    "bulk_discounts": {
+      "50": 0.08,
+      "100": 0.12
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_012": {
+    "name": "Sauces 2L",
+    "category": "Pantry",
+    "supplier": "Metcash",
+    "lead_time_days": 3,
+    "reorder_point": 105,
+    "unit_cost": 14.0,
+    "selling_price": 20.19,
+    "min_order_quantity": 100,
+    "shelf_life_days": 3,
+    "bulk_discounts": {
+      "50": 0.07,
+      "100": 0.14
+    },
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_013": {
+    "name": "Milk Dozen",
+    "category": "Dairy",
+    "supplier": "Metcash",
+    "lead_time_days": 3,
+    "reorder_point": 120,
+    "unit_cost": 10.0,
+    "selling_price": 12.0,
+    "min_order_quantity": 10,
+    "shelf_life_days": 90,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_014": {
+    "name": "Yogurt 2L",
+    "category": "Dairy",
+    "supplier": "Metcash",
+    "lead_time_days": 4,
+    "reorder_point": 205,
+    "unit_cost": 4.63,
+    "selling_price": 5.9,
+    "min_order_quantity": 10,
+    "shelf_life_days": 14,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_015": {
+    "name": "Nuts 1kg",
+    "category": "Snacks",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 3,
+    "reorder_point": 325,
+    "unit_cost": 4.38,
+    "selling_price": 5.91,
+    "min_order_quantity": 10,
+    "shelf_life_days": 3,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_016": {
+    "name": "Pastries 1L",
+    "category": "Bakery",
+    "supplier": "Metcash",
+    "lead_time_days": 2,
+    "reorder_point": 100,
+    "unit_cost": 1.53,
+    "selling_price": 1.96,
+    "min_order_quantity": 10,
+    "shelf_life_days": 3,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_017": {
+    "name": "Nuts Dozen",
+    "category": "Snacks",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 1,
+    "reorder_point": 650,
+    "unit_cost": 4.24,
+    "selling_price": 5.94,
+    "min_order_quantity": 50,
+    "shelf_life_days": 14,
+    "bulk_discounts": {
+      "50": 0.07
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_018": {
+    "name": "Beef 500g",
+    "category": "Meat",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 5,
+    "reorder_point": 820,
+    "unit_cost": 9.8,
+    "selling_price": 13.34,
+    "min_order_quantity": 50,
+    "shelf_life_days": 3,
+    "bulk_discounts": {
+      "50": 0.06
+    },
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_019": {
+    "name": "Pork 2L",
+    "category": "Meat",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 1,
+    "reorder_point": 400,
+    "unit_cost": 10.9,
+    "selling_price": 15.73,
+    "min_order_quantity": 100,
+    "shelf_life_days": 30,
+    "bulk_discounts": {
+      "50": 0.05,
+      "100": 0.15
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_020": {
+    "name": "Detergent 1L",
+    "category": "Cleaning",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 1,
+    "reorder_point": 112,
+    "unit_cost": 13.93,
+    "selling_price": 20.38,
+    "min_order_quantity": 100,
+    "shelf_life_days": 14,
+    "bulk_discounts": {
+      "50": 0.06,
+      "100": 0.1
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_021": {
+    "name": "Soft Drink 500ml",
+    "category": "Beverages",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 4,
+    "reorder_point": 280,
+    "unit_cost": 9.79,
+    "selling_price": 12.74,
+    "min_order_quantity": 100,
+    "shelf_life_days": 14,
+    "bulk_discounts": {
+      "50": 0.05,
+      "100": 0.14
+    },
+    "is_seasonal": true,
+    "perishable": false
+  },
+  "SKU_022": {
+    "name": "Beef 1kg",
+    "category": "Meat",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 1,
+    "reorder_point": 980,
+    "unit_cost": 10.3,
+    "selling_price": 14.15,
+    "min_order_quantity": 10,
+    "shelf_life_days": 365,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_023": {
+    "name": "Rolls 500g",
+    "category": "Bakery",
+    "supplier": "Metcash",
+    "lead_time_days": 5,
+    "reorder_point": 210,
+    "unit_cost": 10.62,
+    "selling_price": 14.82,
+    "min_order_quantity": 100,
+    "shelf_life_days": 3,
+    "bulk_discounts": {
+      "50": 0.07,
+      "100": 0.13
+    },
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_024": {
+    "name": "Butter 500g",
+    "category": "Dairy",
+    "supplier": "Metcash",
+    "lead_time_days": 5,
+    "reorder_point": 950,
+    "unit_cost": 8.87,
+    "selling_price": 10.89,
+    "min_order_quantity": 50,
+    "shelf_life_days": 14,
+    "bulk_discounts": {
+      "50": 0.07
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_025": {
+    "name": "Bread 2L",
+    "category": "Bakery",
+    "supplier": "Metcash",
+    "lead_time_days": 3,
+    "reorder_point": 390,
+    "unit_cost": 7.94,
+    "selling_price": 10.9,
+    "min_order_quantity": 100,
+    "shelf_life_days": 3,
+    "bulk_discounts": {
+      "50": 0.03,
+      "100": 0.13
+    },
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_026": {
+    "name": "Juice 330ml",
+    "category": "Beverages",
+    "supplier": "Metcash",
+    "lead_time_days": 3,
+    "reorder_point": 275,
+    "unit_cost": 11.42,
+    "selling_price": 16.97,
+    "min_order_quantity": 100,
+    "shelf_life_days": 90,
+    "bulk_discounts": {
+      "50": 0.07,
+      "100": 0.1
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_027": {
+    "name": "Butter 1kg",
+    "category": "Dairy",
+    "supplier": "Metcash",
+    "lead_time_days": 3,
+    "reorder_point": 441,
+    "unit_cost": 7.69,
+    "selling_price": 10.09,
+    "min_order_quantity": 100,
+    "shelf_life_days": 7,
+    "bulk_discounts": {
+      "50": 0.03,
+      "100": 0.09
+    },
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_028": {
+    "name": "Chocolate 1kg",
+    "category": "Snacks",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 5,
+    "reorder_point": 570,
+    "unit_cost": 11.32,
+    "selling_price": 15.95,
+    "min_order_quantity": 20,
+    "shelf_life_days": 14,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_029": {
+    "name": "Bananas 1L",
+    "category": "Produce",
+    "supplier": "Metcash",
+    "lead_time_days": 4,
+    "reorder_point": 225,
+    "unit_cost": 9.48,
+    "selling_price": 11.61,
+    "min_order_quantity": 10,
+    "shelf_life_days": 3,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_030": {
+    "name": "Tomatoes 1kg",
+    "category": "Produce",
+    "supplier": "Metcash",
+    "lead_time_days": 2,
+    "reorder_point": 300,
+    "unit_cost": 6.13,
+    "selling_price": 7.53,
+    "min_order_quantity": 50,
+    "shelf_life_days": 365,
+    "bulk_discounts": {
+      "50": 0.08
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_031": {
+    "name": "Chocolate Dozen",
+    "category": "Snacks",
+    "supplier": "Metcash",
+    "lead_time_days": 1,
+    "reorder_point": 345,
+    "unit_cost": 1.33,
+    "selling_price": 1.92,
+    "min_order_quantity": 100,
+    "shelf_life_days": 365,
+    "bulk_discounts": {
+      "50": 0.07,
+      "100": 0.1
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_032": {
+    "name": "Frozen Veggies 500g",
+    "category": "Frozen",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 2,
+    "reorder_point": 320,
+    "unit_cost": 1.53,
+    "selling_price": 2.08,
+    "min_order_quantity": 100,
+    "shelf_life_days": 14,
+    "bulk_discounts": {
+      "50": 0.07,
+      "100": 0.08
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_033": {
+    "name": "Frozen Veggies 1kg",
+    "category": "Frozen",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 1,
+    "reorder_point": 105,
+    "unit_cost": 1.16,
+    "selling_price": 1.73,
+    "min_order_quantity": 20,
+    "shelf_life_days": 3,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_034": {
+    "name": "Pastries Dozen",
+    "category": "Bakery",
+    "supplier": "Metcash",
+    "lead_time_days": 5,
+    "reorder_point": 50,
+    "unit_cost": 8.6,
+    "selling_price": 12.16,
+    "min_order_quantity": 20,
+    "shelf_life_days": 90,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_035": {
+    "name": "Frozen Pizza 1L",
+    "category": "Frozen",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 5,
+    "reorder_point": 475,
+    "unit_cost": 4.32,
+    "selling_price": 5.65,
+    "min_order_quantity": 20,
+    "shelf_life_days": 90,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_036": {
+    "name": "Cheese Dozen",
+    "category": "Dairy",
+    "supplier": "Metcash",
+    "lead_time_days": 2,
+    "reorder_point": 175,
+    "unit_cost": 12.95,
+    "selling_price": 18.27,
+    "min_order_quantity": 100,
+    "shelf_life_days": 30,
+    "bulk_discounts": {
+      "50": 0.07,
+      "100": 0.1
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_037": {
+    "name": "Frozen Veggies 500g",
+    "category": "Frozen",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 2,
+    "reorder_point": 610,
+    "unit_cost": 9.55,
+    "selling_price": 13.28,
+    "min_order_quantity": 20,
+    "shelf_life_days": 7,
+    "bulk_discounts": {},
+    "is_seasonal": true,
+    "perishable": true
+  },
+  "SKU_038": {
+    "name": "Butter 2L",
+    "category": "Dairy",
+    "supplier": "Metcash",
+    "lead_time_days": 4,
+    "reorder_point": 410,
+    "unit_cost": 10.15,
+    "selling_price": 12.68,
+    "min_order_quantity": 100,
+    "shelf_life_days": 7,
+    "bulk_discounts": {
+      "50": 0.06,
+      "100": 0.12
+    },
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_039": {
+    "name": "Milk Dozen",
+    "category": "Dairy",
+    "supplier": "Metcash",
+    "lead_time_days": 2,
+    "reorder_point": 370,
+    "unit_cost": 8.55,
+    "selling_price": 12.67,
+    "min_order_quantity": 50,
+    "shelf_life_days": 14,
+    "bulk_discounts": {
+      "50": 0.04
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_040": {
+    "name": "Bread 1kg",
+    "category": "Bakery",
+    "supplier": "Metcash",
+    "lead_time_days": 2,
+    "reorder_point": 495,
+    "unit_cost": 2.14,
+    "selling_price": 3.01,
+    "min_order_quantity": 20,
+    "shelf_life_days": 3,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_041": {
+    "name": "Cakes Dozen",
+    "category": "Bakery",
+    "supplier": "Metcash",
+    "lead_time_days": 4,
+    "reorder_point": 420,
+    "unit_cost": 4.8,
+    "selling_price": 5.93,
+    "min_order_quantity": 10,
+    "shelf_life_days": 90,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_042": {
+    "name": "Disinfectant Dozen",
+    "category": "Cleaning",
+    "supplier": "Metcash",
+    "lead_time_days": 1,
+    "reorder_point": 315,
+    "unit_cost": 11.46,
+    "selling_price": 16.53,
+    "min_order_quantity": 50,
+    "shelf_life_days": 3,
+    "bulk_discounts": {
+      "50": 0.06
+    },
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_043": {
+    "name": "Yogurt 1L",
+    "category": "Dairy",
+    "supplier": "Metcash",
+    "lead_time_days": 1,
+    "reorder_point": 195,
+    "unit_cost": 11.46,
+    "selling_price": 16.35,
+    "min_order_quantity": 20,
+    "shelf_life_days": 3,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_044": {
+    "name": "Disinfectant 1L",
+    "category": "Cleaning",
+    "supplier": "Metcash",
+    "lead_time_days": 3,
+    "reorder_point": 350,
+    "unit_cost": 13.52,
+    "selling_price": 17.8,
+    "min_order_quantity": 100,
+    "shelf_life_days": 30,
+    "bulk_discounts": {
+      "50": 0.05,
+      "100": 0.15
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_045": {
+    "name": "Bananas Dozen",
+    "category": "Produce",
+    "supplier": "Metcash",
+    "lead_time_days": 5,
+    "reorder_point": 340,
+    "unit_cost": 1.98,
+    "selling_price": 2.43,
+    "min_order_quantity": 100,
+    "shelf_life_days": 30,
+    "bulk_discounts": {
+      "50": 0.08,
+      "100": 0.13
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_046": {
+    "name": "Juice 500ml",
+    "category": "Beverages",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 5,
+    "reorder_point": 440,
+    "unit_cost": 1.62,
+    "selling_price": 2.21,
+    "min_order_quantity": 50,
+    "shelf_life_days": 90,
+    "bulk_discounts": {
+      "50": 0.07
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_047": {
+    "name": "Chocolate 500g",
+    "category": "Snacks",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 1,
+    "reorder_point": 154,
+    "unit_cost": 13.11,
+    "selling_price": 19.03,
+    "min_order_quantity": 20,
+    "shelf_life_days": 365,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_048": {
+    "name": "Chocolate 2L",
+    "category": "Snacks",
+    "supplier": "Metcash",
+    "lead_time_days": 4,
+    "reorder_point": 518,
+    "unit_cost": 8.09,
+    "selling_price": 10.27,
+    "min_order_quantity": 10,
+    "shelf_life_days": 90,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_049": {
+    "name": "Sausages 1kg",
+    "category": "Meat",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 3,
+    "reorder_point": 630,
+    "unit_cost": 6.14,
+    "selling_price": 7.52,
+    "min_order_quantity": 20,
+    "shelf_life_days": 90,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_050": {
+    "name": "Tomatoes Dozen",
+    "category": "Produce",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 1,
+    "reorder_point": 335,
+    "unit_cost": 7.8,
+    "selling_price": 9.39,
+    "min_order_quantity": 50,
+    "shelf_life_days": 30,
+    "bulk_discounts": {
+      "50": 0.07
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_051": {
+    "name": "Bleach Dozen",
+    "category": "Cleaning",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 4,
+    "reorder_point": 105,
+    "unit_cost": 4.86,
+    "selling_price": 7.1,
+    "min_order_quantity": 10,
+    "shelf_life_days": 365,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_052": {
+    "name": "Coffee 1.5L",
+    "category": "Beverages",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 2,
+    "reorder_point": 140,
+    "unit_cost": 13.93,
+    "selling_price": 20.56,
+    "min_order_quantity": 50,
+    "shelf_life_days": 30,
+    "bulk_discounts": {
+      "50": 0.06
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_053": {
+    "name": "Milk 1L",
+    "category": "Dairy",
+    "supplier": "Metcash",
+    "lead_time_days": 4,
+    "reorder_point": 588,
+    "unit_cost": 10.7,
+    "selling_price": 14.07,
+    "min_order_quantity": 100,
+    "shelf_life_days": 3,
+    "bulk_discounts": {
+      "50": 0.06,
+      "100": 0.1
+    },
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_054": {
+    "name": "Beef 2L",
+    "category": "Meat",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 1,
+    "reorder_point": 500,
+    "unit_cost": 6.31,
+    "selling_price": 8.01,
+    "min_order_quantity": 10,
+    "shelf_life_days": 30,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_055": {
+    "name": "Coffee 500ml",
+    "category": "Beverages",
+    "supplier": "Metcash",
+    "lead_time_days": 2,
+    "reorder_point": 220,
+    "unit_cost": 10.52,
+    "selling_price": 13.14,
+    "min_order_quantity": 50,
+    "shelf_life_days": 365,
+    "bulk_discounts": {
+      "50": 0.07
+    },
+    "is_seasonal": true,
+    "perishable": false
+  },
+  "SKU_056": {
+    "name": "Nuts 2L",
+    "category": "Snacks",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 1,
+    "reorder_point": 518,
+    "unit_cost": 13.1,
+    "selling_price": 15.9,
+    "min_order_quantity": 50,
+    "shelf_life_days": 3,
+    "bulk_discounts": {
+      "50": 0.06
+    },
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_057": {
+    "name": "Canned Beans Dozen",
+    "category": "Pantry",
+    "supplier": "Metcash",
+    "lead_time_days": 4,
+    "reorder_point": 50,
+    "unit_cost": 12.76,
+    "selling_price": 18.52,
+    "min_order_quantity": 10,
+    "shelf_life_days": 7,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_058": {
+    "name": "Juice 330ml",
+    "category": "Beverages",
+    "supplier": "Metcash",
+    "lead_time_days": 3,
+    "reorder_point": 581,
+    "unit_cost": 8.69,
+    "selling_price": 12.43,
+    "min_order_quantity": 10,
+    "shelf_life_days": 90,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_059": {
+    "name": "Yogurt 1kg",
+    "category": "Dairy",
+    "supplier": "Metcash",
+    "lead_time_days": 4,
+    "reorder_point": 287,
+    "unit_cost": 4.7,
+    "selling_price": 5.93,
+    "min_order_quantity": 50,
+    "shelf_life_days": 3,
+    "bulk_discounts": {
+      "50": 0.04
+    },
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_060": {
+    "name": "Chocolate 500g",
+    "category": "Snacks",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 4,
+    "reorder_point": 518,
+    "unit_cost": 11.77,
+    "selling_price": 15.96,
+    "min_order_quantity": 10,
+    "shelf_life_days": 30,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_061": {
+    "name": "Detergent 1L",
+    "category": "Cleaning",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 2,
+    "reorder_point": 658,
+    "unit_cost": 7.62,
+    "selling_price": 10.11,
+    "min_order_quantity": 50,
+    "shelf_life_days": 90,
+    "bulk_discounts": {
+      "50": 0.04
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_062": {
+    "name": "Rolls 1L",
+    "category": "Bakery",
+    "supplier": "Metcash",
+    "lead_time_days": 2,
+    "reorder_point": 600,
+    "unit_cost": 9.43,
+    "selling_price": 13.12,
+    "min_order_quantity": 100,
+    "shelf_life_days": 14,
+    "bulk_discounts": {
+      "50": 0.06,
+      "100": 0.11
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_063": {
+    "name": "Frozen Veggies 1L",
+    "category": "Frozen",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 2,
+    "reorder_point": 95,
+    "unit_cost": 13.05,
+    "selling_price": 19.38,
+    "min_order_quantity": 10,
+    "shelf_life_days": 30,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_064": {
+    "name": "Juice 500ml",
+    "category": "Beverages",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 3,
+    "reorder_point": 520,
+    "unit_cost": 7.8,
+    "selling_price": 10.13,
+    "min_order_quantity": 50,
+    "shelf_life_days": 14,
+    "bulk_discounts": {
+      "50": 0.04
+    },
+    "is_seasonal": true,
+    "perishable": false
+  },
+  "SKU_065": {
+    "name": "Sauces 1kg",
+    "category": "Pantry",
+    "supplier": "Metcash",
+    "lead_time_days": 3,
+    "reorder_point": 760,
+    "unit_cost": 9.9,
+    "selling_price": 12.42,
+    "min_order_quantity": 10,
+    "shelf_life_days": 3,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_066": {
+    "name": "Biscuits 2L",
+    "category": "Snacks",
+    "supplier": "Metcash",
+    "lead_time_days": 5,
+    "reorder_point": 490,
+    "unit_cost": 12.47,
+    "selling_price": 16.25,
+    "min_order_quantity": 20,
+    "shelf_life_days": 7,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_067": {
+    "name": "Soft Drink 1.5L",
+    "category": "Beverages",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 3,
+    "reorder_point": 495,
+    "unit_cost": 3.73,
+    "selling_price": 4.88,
+    "min_order_quantity": 10,
+    "shelf_life_days": 365,
+    "bulk_discounts": {},
+    "is_seasonal": true,
+    "perishable": false
+  },
+  "SKU_068": {
+    "name": "Disinfectant 2L",
+    "category": "Cleaning",
+    "supplier": "Metcash",
+    "lead_time_days": 4,
+    "reorder_point": 630,
+    "unit_cost": 8.07,
+    "selling_price": 10.06,
+    "min_order_quantity": 10,
+    "shelf_life_days": 90,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_069": {
+    "name": "Apples 1kg",
+    "category": "Produce",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 4,
+    "reorder_point": 161,
+    "unit_cost": 3.77,
+    "selling_price": 4.94,
+    "min_order_quantity": 50,
+    "shelf_life_days": 365,
+    "bulk_discounts": {
+      "50": 0.06
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_070": {
+    "name": "Chocolate 2L",
+    "category": "Snacks",
+    "supplier": "Metcash",
+    "lead_time_days": 3,
+    "reorder_point": 189,
+    "unit_cost": 4.38,
+    "selling_price": 6.19,
+    "min_order_quantity": 50,
+    "shelf_life_days": 365,
+    "bulk_discounts": {
+      "50": 0.04
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_071": {
+    "name": "Ice Cream 2L",
+    "category": "Frozen",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 4,
+    "reorder_point": 665,
+    "unit_cost": 3.39,
+    "selling_price": 4.64,
+    "min_order_quantity": 10,
+    "shelf_life_days": 3,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": true
+  },
+  "SKU_072": {
+    "name": "Disinfectant 1L",
+    "category": "Cleaning",
+    "supplier": "Metcash",
+    "lead_time_days": 1,
+    "reorder_point": 665,
+    "unit_cost": 10.01,
+    "selling_price": 13.45,
+    "min_order_quantity": 100,
+    "shelf_life_days": 30,
+    "bulk_discounts": {
+      "50": 0.04,
+      "100": 0.1
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_073": {
+    "name": "Nuts 1L",
+    "category": "Snacks",
+    "supplier": "PFD Food Services",
+    "lead_time_days": 5,
+    "reorder_point": 210,
+    "unit_cost": 4.27,
+    "selling_price": 5.76,
+    "min_order_quantity": 20,
+    "shelf_life_days": 365,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_074": {
+    "name": "Soap 2L",
+    "category": "Personal Care",
+    "supplier": "Metcash",
+    "lead_time_days": 2,
+    "reorder_point": 450,
+    "unit_cost": 1.94,
+    "selling_price": 2.63,
+    "min_order_quantity": 100,
+    "shelf_life_days": 90,
+    "bulk_discounts": {
+      "50": 0.08,
+      "100": 0.14
+    },
+    "is_seasonal": false,
+    "perishable": false
+  },
+  "SKU_075": {
+    "name": "Toothpaste 1L",
+    "category": "Personal Care",
+    "supplier": "Metcash",
+    "lead_time_days": 3,
+    "reorder_point": 119,
+    "unit_cost": 12.46,
+    "selling_price": 17.64,
+    "min_order_quantity": 10,
+    "shelf_life_days": 14,
+    "bulk_discounts": {},
+    "is_seasonal": false,
+    "perishable": false
+  }
+}

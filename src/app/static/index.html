@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🛒 Retail Demand Forecaster & Auto-Replenishment for Australian Retailers</title>
+    <script src="https://cdn.plot.ly/plotly-2.26.0.min.js"></script>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>🛒 AI Demand Forecaster & Auto-Replenishment for Australian Retailers</h1>
+        <p class="subtitle">Automated Inventory Management for Stock Optimization | Built with Vibe Coding & Agent Engineering</p>
+
+        <!-- Store Selector -->
+        <div class="selector">
+            <label for="store-select">Select Store(s):</label>
+            <select id="store-select" multiple>
+                <option value="STORE_001" selected>Sydney CBD</option>
+                <option value="STORE_002" selected>Melbourne North</option>
+                <option value="STORE_003">Brisbane Central</option>
+            </select>
+            <button onclick="applyStoreFilter()">Apply</button>
+        </div>
+
+        <!-- Dashboard Tabs -->
+        <div class="tabs">
+            <button class="tab-button active" onclick="openTab('forecast')">Demand Forecasts</button>
+            <button class="tab-button" onclick="openTab('inventory')">Inventory Heatmap</button>
+            <button class="tab-button" onclick="openTab('supplier')">Supplier Comparison</button>
+            <button class="tab-button" onclick="openTab('financial')">Financial Metrics</button>
+            <button class="tab-button" onclick="openTab('po')">Purchase Orders</button>
+            <button class="tab-button" onclick="openTab('reports')">Reports</button>
+        </div>
+
+        <!-- Forecast Tab -->
+        <div id="forecast" class="tab-content" style="display: block;">
+            <h2>Demand Forecasts</h2>
+            <div class="filter">
+                <label for="sku-filter">Filter by SKU:</label>
+                <select id="sku-filter" onchange="updateForecastChart()">
+                    <option value="all">All SKUs</option>
+                    <!-- Populated dynamically -->
+                </select>
+                <label for="horizon-filter">Forecast Horizon (days):</label>
+                <input type="number" id="horizon-filter" value="7" min="1" max="30">
+                <button onclick="updateForecastChart()">Update</button>
+            </div>
+            <div id="forecast-chart" style="width: 100%; height: 500px;"></div>
+        </div>
+
+        <!-- Inventory Heatmap Tab -->
+        <div id="inventory" class="tab-content">
+            <h2>Inventory Heatmap</h2>
+            <div id="inventory-heatmap" style="width: 100%; height: 600px;"></div>
+            <h3>Low-Stock Alerts</h3>
+            <table id="low-stock-table">
+                <thead>
+                    <tr>
+                        <th>Store</th>
+                        <th>SKU</th>
+                        <th>Name</th>
+                        <th>Current Stock</th>
+                        <th>Reorder Point</th>
+                        <th>Recommended Order</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody id="low-stock-body"></tbody>
+            </table>
+        </div>
+
+        <!-- Supplier Comparison Tab -->
+        <div id="supplier" class="tab-content">
+            <h2>Supplier Lead Time & Cost Comparison</h2>
+            <div id="supplier-chart" style="width: 100%; height: 400px;"></div>
+            <table id="supplier-table">
+                <thead>
+                    <tr>
+                        <th>Supplier</th>
+                        <th>Avg. Lead Time (days)</th>
+                        <th>Avg. Unit Cost (AUD)</th>
+                        <th>Bulk Discounts</th>
+                        <th>Reliability</th>
+                    </tr>
+                </thead>
+                <tbody id="supplier-body"></tbody>
+            </table>
+        </div>
+
+        <!-- Financial Metrics Tab -->
+        <div id="financial" class="tab-content">
+            <h2>Financial Metrics</h2>
+            <div class="filter">
+                <label for="financial-store">Store:</label>
+                <select id="financial-store">
+                    <option value="STORE_001">Sydney CBD</option>
+                    <option value="STORE_002">Melbourne North</option>
+                    <option value="STORE_003">Brisbane Central</option>
+                </select>
+                <label for="start-date">Start Date:</label>
+                <input type="date" id="start-date" value="2025-05-01">
+                <label for="end-date">End Date:</label>
+                <input type="date" id="end-date" value="2026-04-30">
+                <button onclick="updateFinancialMetrics()">Update</button>
+            </div>
+            <div id="financial-metrics-chart" style="width: 100%; height: 400px;"></div>
+            <h3>Top SKUs by Gross Margin</h3>
+            <table id="top-skus-table">
+                <thead>
+                    <tr>
+                        <th>SKU</th>
+                        <th>Gross Margin (AUD)</th>
+                        <th>Margin %</th>
+                        <th>Quantity Sold</th>
+                    </tr>
+                </thead>
+                <tbody id="top-skus-body"></tbody>
+            </table>
+        </div>
+
+        <!-- PO Tab -->
+        <div id="po" class="tab-content">
+            <h2>Purchase Orders</h2>
+            <div class="filter">
+                <label for="po-store">Store(s):</label>
+                <select id="po-store" multiple>
+                    <option value="STORE_001" selected>Sydney CBD</option>
+                    <option value="STORE_002" selected>Melbourne North</option>
+                    <option value="STORE_003">Brisbane Central</option>
+                </select>
+                <button onclick="generateMultiStorePO()">Generate Multi-Store PO</button>
+            </div>
+            <table id="po-table">
+                <thead>
+                    <tr>
+                        <th>PO ID</th>
+                        <th>Stores</th>
+                        <th>Supplier</th>
+                        <th>Items</th>
+                        <th>Total Cost (AUD)</th>
+                        <th>Discount</th>
+                        <th>Delivery Date</th>
+                        <th>Status</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody id="po-body"></tbody>
+            </table>
+        </div>
+
+        <!-- Reports Tab -->
+        <div id="reports" class="tab-content">
+            <h2>Reports</h2>
+            <div class="report-options">
+                <label for="report-store">Store:</label>
+                <select id="report-store">
+                    <option value="STORE_001">Sydney CBD</option>
+                    <option value="STORE_002">Melbourne North</option>
+                    <option value="STORE_003">Brisbane Central</option>
+                </select>
+                <label for="report-start">Start Date:</label>
+                <input type="date" id="report-start" value="2025-05-01">
+                <label for="report-end">End Date:</label>
+                <input type="date" id="report-end" value="2026-04-30">
+                <button onclick="generateReport('inventory')">Generate Inventory Report</button>
+                <button onclick="generateReport('financial')">Generate Financial Report</button>
+                <button onclick="generateReport('supplier')">Generate Supplier Report</button>
+            </div>
+            <div id="report-links"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script src="visualizations.js"></script>
+</body>
+</html>

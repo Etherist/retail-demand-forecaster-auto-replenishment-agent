@@ -1,0 +1,20 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: retail-forecaster-config
+  namespace: retail-forecaster
+  labels:
+    app: retail-forecaster
+data:
+  ENVIRONMENT: "production"
+  LOG_LEVEL: "info"
+  SUPPLIER_API_BASE_URL: "http://retail-mock-api.retail-forecaster.svc.cluster.local:8001"
+  # SMTP Configuration - set via Secret for sensitive data
+  SMTP_HOST: ""
+  SMTP_PORT: "587"
+  SMTP_USER: ""
+  # Application settings
+  FORECAST_HORIZON_DAYS: "7"
+  REORDER_THRESHOLD_DAYS: "14"
+  BULK_DISCOUNT_THRESHOLD: "100"
+  BULK_DISCOUNT_RATE: "0.10"

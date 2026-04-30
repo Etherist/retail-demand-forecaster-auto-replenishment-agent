@@ -1,0 +1,124 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: retail-forecaster
+  namespace: retail-forecaster
+  labels:
+    app: retail-forecaster
+    tier: backend
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: retail-forecaster
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 0
+  template:
+    metadata:
+      labels:
+        app: retail-forecaster
+        tier: backend
+    spec:
+      containers:
+        - name: retail-forecaster
+          image: retail-forecaster:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8000
+              name: http
+              protocol: TCP
+          envFrom:
+            - configMapRef:
+                name: retail-forecaster-config
+            - secretRef:
+                name: retail-forecaster-secrets
+          resources:
+            requests:
+              cpu: "250m"
+              memory: "512Mi"
+            limits:
+              cpu: "1000m"
+              memory: "1Gi"
+          livenessProbe:
+            httpGet:
+              path: /health
+              port: 8000
+            initialDelaySeconds: 30
+            periodSeconds: 30
+            timeoutSeconds: 10
+            failureThreshold: 3
+          readinessProbe:
+            httpGet:
+              path: /health
+              port: 8000
+            initialDelaySeconds: 10
+            periodSeconds: 10
+            timeoutSeconds: 5
+            failureThreshold: 3
+          volumeMounts:
+            - name: reports-volume
+              mountPath: /app/reports
+            - name: data-volume
+              mountPath: /app/src/data
+      volumes:
+        - name: reports-volume
+          emptyDir: {}
+        - name: data-volume
+          emptyDir: {}
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: retail-mock-api
+  namespace: retail-forecaster
+  labels:
+    app: retail-mock-api
+    tier: backend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: retail-mock-api
+  template:
+    metadata:
+      labels:
+        app: retail-mock-api
+        tier: backend
+    spec:
+      containers:
+        - name: retail-mock-api
+          image: retail-mock-api:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8001
+              name: http
+              protocol: TCP
+          envFrom:
+            - configMapRef:
+                name: retail-forecaster-config
+          resources:
+            requests:
+              cpu: "100m"
+              memory: "256Mi"
+            limits:
+              cpu: "500m"
+              memory: "512Mi"
+          livenessProbe:
+            httpGet:
+              path: /health
+              port: 8001
+            initialDelaySeconds: 10
+            periodSeconds: 30
+            timeoutSeconds: 5
+            failureThreshold: 3
+          readinessProbe:
+            httpGet:
+              path: /health
+              port: 8001
+            initialDelaySeconds: 5
+            periodSeconds: 10
+            timeoutSeconds: 5
+            failureThreshold: 3
