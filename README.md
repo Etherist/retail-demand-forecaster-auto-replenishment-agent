@@ -76,13 +76,13 @@ graph TB
     D -.->|Metrics| G
     C -.->|Metrics| G
     
-    style A fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
-    style B fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
-    style C fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
-    style D fill:#fff3e0,stroke:#f57c00,stroke-width:2px
-    style E fill:#e8f5e9,stroke:#388e3c,stroke-width:2px
-    style F fill:#fce4ec,stroke:#c2185b,stroke-width:2px
-    style G fill:#f1f8e9,stroke:#689f38,stroke-width:2px
+    style A fill:#1565c0,stroke:#0d47a1,color:#fff
+    style B fill:#1565c0,stroke:#0d47a1,color:#fff
+    style C fill:#6a1b9a,stroke:#4a148c,color:#fff
+    style D fill:#ef6c00,stroke:#e65100,color:#fff
+    style E fill:#388e3c,stroke:#2e7d32,color:#fff
+    style F fill:#ad1457,stroke:#880e4f,color:#fff
+    style G fill:#558b2f,stroke:#33691e,color:#fff
 ```
 
 ### 🔄 Agent Interaction Flow
