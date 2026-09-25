@@ -1,5 +1,36 @@
 # 🛒 AI Demand Forecaster & Auto-Replenishment Agent for Australian Retailers
 
+
+<!-- engineering-maturity:start -->
+## Engineering status
+
+**Estimated implementation completeness: 75% — advanced working implementation.**  
+**Assessment confidence: high.**
+
+This is an advanced working implementation: the principal architecture and functional paths are materially built and demonstrable. Remaining work is concentrated in integration depth, verification, hardening and release preparation.
+
+**What is already significant:** a real multi-module implementation rather than a presentation-only repository; automated tests are included; CI/automation is represented in the repository; deployment or runtime packaging assets are present.
+
+**Remaining engineering work:** finish release hardening and environment-level validation.
+
+**Production readiness:** Production readiness is not claimed yet. The project is better described as a substantial working implementation progressing through verification and hardening.
+
+| Evidence area | Remote repository evidence |
+| --- | --- |
+| Implementation | 18 source files; approximately 130 KiB of source code |
+| Verification | 9 test files; approximately 20 KiB of test code |
+| Automation | 1 GitHub Actions workflow(s) |
+| Build/configuration | 4 build/dependency manifest(s); 8 configuration file(s) |
+| Deployment | 9 deployment/runtime packaging asset(s) |
+| Documentation/examples | 18 documentation file(s); 0 example/demo file(s) |
+| Remote code inspection | 36 evidence-rich files read; 0 TODO/FIXME marker(s); 0 explicit unfinished marker(s) |
+
+
+> **Status precedence:** This evidence-based assessment supersedes older broad maturity wording elsewhere in this README where the two conflict.
+
+<sub>Engineering estimate refreshed 2026-09-25 from GitHub repository metadata and remotely read source/test/configuration files. It is an evidence-based maturity estimate, not a claim that every runtime path has been independently executed or externally certified.</sub>
+<!-- engineering-maturity:end -->
+
 **A production-grade, agentic AI system for autonomous inventory management**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
