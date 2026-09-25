@@ -31,7 +31,7 @@ This is an advanced working implementation: the principal architecture and funct
 <sub>Engineering estimate refreshed 2026-09-25 from GitHub repository metadata and remotely read source/test/configuration files. It is an evidence-based maturity estimate, not a claim that every runtime path has been independently executed or externally certified.</sub>
 <!-- engineering-maturity:end -->
 
-**A production-grade, agentic AI system for autonomous inventory management**
+**A advanced working implementation, agentic AI system for autonomous inventory management**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
