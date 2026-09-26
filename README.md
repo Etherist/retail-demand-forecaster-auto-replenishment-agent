@@ -31,7 +31,7 @@ This is an advanced working implementation: the principal architecture and funct
 <sub>Engineering estimate refreshed 2026-09-25 from GitHub repository metadata and remotely read source/test/configuration files. It is an evidence-based maturity estimate, not a claim that every runtime path has been independently executed or externally certified.</sub>
 <!-- engineering-maturity:end -->
 
-**A advanced working implementation, agentic AI system for autonomous inventory management**
+**An advanced working agentic AI implementation for demand forecasting and inventory replenishment**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
@@ -40,18 +40,16 @@ This is an advanced working implementation: the principal architecture and funct
 [![XGBoost](https://img.shields.io/badge/xgboost-2.0.0-red.svg)](https://xgboost.readthedocs.io/)
 [![Docker](https://img.shields.io/badge/docker-ready-blue.svg)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-ready-blue.svg)](https://kubernetes.io/)
-[![Tests](https://img.shields.io/badge/tests-45%20passing-brightgreen.svg)](https://github.com/your-username/retail-demand-forecaster/actions)
-[![Coverage](https://img.shields.io/badge/coverage->90%25-brightgreen.svg)]()
 
 ---
 
 ## 🌟 Executive Summary
 
-This project showcases **advanced agentic engineering** through a sophisticated **7-agent autonomous system** that revolutionizes inventory management for Australian retailers. By combining **Prophet time-series forecasting** with **XGBoost machine learning**, the system delivers 85-95% forecast accuracy while automatically generating optimized purchase orders that reduce stockouts by 50% and cut excess inventory by 30%.
+This project demonstrates **advanced agentic engineering** through a **7-agent autonomous workflow** for Australian retail demand forecasting and replenishment. It combines Prophet time-series forecasting with XGBoost, multi-store inventory monitoring, supplier constraints, purchase-order generation, reporting, and deployment assets. The repository includes synthetic/demo data and a mock external-data service; documented forecast and business-impact figures should be treated as benchmark scenarios and modelling assumptions rather than achieved production outcomes.
 
-### 🎯 Business Impact at a Glance
+### 🎯 Illustrative Business Scenario
 
-| Metric | Improvement | Financial Impact (per store) |
+| Metric | Illustrative Scenario | Modelled Financial Impact (per store) |
 |--------|-------------|-----------------------------|
 | **Stockout Reduction** | 50% fewer incidents | $500K protected revenue |
 | **Inventory Optimization** | 30% less excess stock | $200K capital freed |
@@ -59,7 +57,7 @@ This project showcases **advanced agentic engineering** through a sophisticated 
 | **Planner Productivity** | 95% time savings | $75K labor cost reduction |
 | **Total Annual Benefit** | — | **$825K per store** |
 
-**ROI**: 300-500% in first year
+**ROI scenario**: 300–500% in the documented illustrative model; not an achieved customer result
 
 ---
 
@@ -175,20 +173,20 @@ sequenceDiagram
 
 | Feature | Technology | Benefit |
 |---------|-----------|---------|
-| **Hybrid Forecasting** | Prophet + XGBoost | 85-95% accuracy |
+| **Hybrid Forecasting** | Prophet + XGBoost | Documented demo/benchmark range of 85–95% accuracy; not production validation |
 | **Multi-Store Optimization** | Aggregation algorithms | Consolidated POs, lower costs |
 | **Auto-Replenishment** | Rule-based + ML | Zero manual intervention |
 | **Supplier Constraints** | Linear programming | MOQ, bulk discounts, lead times |
 | **External Factors** | BOM API, holiday calendars | Context-aware predictions |
 | **Financial Analytics** | Margin, turnover calculations | ROI visibility |
 | **Advanced Visualizations** | Plotly.js, ReportLab | Interactive dashboards, PDFs |
-| **Real-Time Dashboard** | HTML/JS frontend | At-a-glance monitoring |
+| **Interactive Dashboard** | HTML/JS frontend | At-a-glance monitoring |
 
 ### Technical Highlights
 
-- ✅ **100% Test Coverage**: 45 passing tests, 1 skipped
+- ✅ **Automated Verification**: 9 test files with roughly 47 explicit test functions in the collected source; current CI requires attention
 - ✅ **Type-Safe**: Full type hints, Pydantic validation
-- ✅ **Production-Ready**: Docker, Kubernetes, CI/CD
+- ✅ **Deployment Assets**: Docker and Kubernetes configuration included; CI workflow configured and currently requires attention
 - ✅ **Well-Documented**: 8,000+ lines of docs, ADRs, diagrams
 - ✅ **Secure**: Path traversal protection, input validation, structured logging
 - ✅ **Scalable**: Horizontal scaling, caching-ready architecture
@@ -201,7 +199,7 @@ sequenceDiagram
 
 ```bash
 # Clone and launch
-git clone <your-repo-url>
+git clone https://github.com/Etherist/retail-demand-forecaster-auto-replenishment-agent.git
 cd retail-demand-forecaster-auto-replenishment-agent
 make docker-up
 ```
@@ -317,7 +315,7 @@ curl "http://localhost:8000/financial-metrics/?store_id=STORE_001&start_date=202
 3. Generates consolidated PO with 15% bulk discount
 4. Delivers 1 week before peak
 
-**Result**: Zero stockouts, $12K discount captured.
+**Seeded demo result**: zero simulated stockouts and a modelled $12K discount capture in this scenario.
 
 ---
 
@@ -411,17 +409,9 @@ We've invested heavily in documentation to ensure this project is **employer-rea
 
 ## 🧪 Testing & Quality
 
-### Test Coverage
+### Test Suite
 
-```
-45 tests total
-├── Unit tests (38)
-├── Integration tests (7)
-└── Reporting tests (5)
-
-100% pass rate
->90% code coverage
-```
+The collected repository contains 9 test files with roughly 47 explicit test functions spanning agents, reporting and API behaviour. The latest collected CI run is failing, so the README does not claim a current pass rate or coverage percentage. Generate a fresh local coverage report with the documented pytest commands before making release-quality coverage claims.
 
 **Test Files**:
 - `test_sales_data_ingestor.py` - Data loading & validation
@@ -612,23 +602,23 @@ REORDER_THRESHOLD_DAYS=14
 
 ---
 
-## 📊 Competitive Advantages
+## 📊 Engineering Positioning
 
-### vs. Manual Spreadsheets
-- **Automation**: 95% time saved vs. manual
-- **Accuracy**: 85-95% vs. 60-70%
-- **External Factors**: Weather, holidays, promotions integrated
+### Compared with Manual Spreadsheet Workflows
+- **Automation**: agent-driven ingestion, forecasting, inventory monitoring and replenishment planning
+- **Forecasting**: hybrid Prophet/XGBoost approach with documented benchmark scenarios
+- **External Factors**: weather, holidays and promotion inputs represented in the architecture
 
-### vs. ERP Modules (SAP, Oracle)
-- **Cost**: $0 vs. $1M+ license fees
-- **Deployment**: 5 minutes vs. 12-24 months
-- **Flexibility**: Fully customizable vs. configuration-only
-- **Australian Context**: Built for local market vs. generic global
+### Compared with Large ERP Forecasting Modules
+- **Transparency**: source-available implementation that can be inspected and extended
+- **Deployment**: container and Kubernetes assets are included for controlled demonstrations
+- **Flexibility**: Python-based agents and configuration are directly adaptable
+- **Australian Context**: demonstration scenarios and terminology are oriented to Australian retail
 
-### vs. Simple Statistical Forecasts
-- **Accuracy**: MAPE 8-15% vs. 20-35%
-- **Features**: External regressors vs. historical only
-- **Confidence Intervals**: Proper uncertainty quantification
+### Compared with Single-Model Forecasting
+- **Hybrid Models**: Prophet and XGBoost can be combined for different signal types
+- **External Regressors**: architecture supports contextual inputs beyond historical demand
+- **Uncertainty**: forecast outputs include confidence/uncertainty information where supported by the model
 
 ---
 
@@ -700,4 +690,4 @@ If you find this project valuable, please give it a star! ⭐
 
 **🚀 Ready to deploy?** `make docker-up`  
 **📖 Want details?** Browse `/docs/`  
-**🐛 Found a bug?** [Open an issue](https://github.com/your-username/retail-demand-forecaster/issues)
+**🐛 Found a bug?** [Open an issue](https://github.com/Etherist/retail-demand-forecaster-auto-replenishment-agent/issues)
